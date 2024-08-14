@@ -129,7 +129,7 @@ a:hover {
     opacity: 0;
 }
 .hamburger-icon.open span:last-child {
-    transform: rotate(-45deg) translate(10px, 5px);
+    transform: rotate(-45deg) translate(10px, -5px);
 }
 
 .hamburger-icon span:first-child {
@@ -183,11 +183,11 @@ section {
     font-weight: 600;
 }
 
-.section__text_p1 {
+.section__text__p1 {
     text-align: center;
 }
 
-.section__text_p2 {
+.section__text__p2 {
     font-size: 1.75rem;
     margin-bottom: 1rem;
 }
@@ -276,8 +276,6 @@ section {
 }
 
 .about-pic {
-    height: 400px;
-    width: 400px;
     border-radius: 2rem;
 }
 
@@ -343,7 +341,7 @@ article {
     gap: 0.5rem;
 }
 
-article.icon {
+article .icon {
     cursor: default;
 }
 
@@ -355,7 +353,7 @@ article.icon {
 
 .color-container {
     border-color: rgb(163,163,163);
-    background-color: rgb(250, 250, 250);
+    background: rgb(250, 250, 250);
 }
 
 .project-img {
