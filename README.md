@@ -16,6 +16,6 @@ Thanks to **Ade-mir** - [https://github.com/Ade-mir](https://github.com/Ade-mir)
 
 #### From the video titled "Responsive Portfolio Website From Scratch":
 <h2 align="center">
-  <img src="https://tangerine-hummingbird-1479b6.netlify.app/" alt="" width="600px" />
+  <a href="https://tangerine-hummingbird-1479b6.netlify.app/">https://tangerine-hummingbird-1479b6.netlify.app/</a>
   <br>
 </h2>
