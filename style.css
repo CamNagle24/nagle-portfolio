@@ -516,3 +516,9 @@ footer p {
         flex-wrap: wrap;
     }
 }
+
+@media screen and (min-width: 1401px) {
+    section {
+        margin: 0 15%;
+    }
+}
