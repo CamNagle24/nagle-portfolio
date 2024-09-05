@@ -6,13 +6,20 @@ My portfolio site was built from a Youtube template, so I took notes on how a mo
 Test
 
 
-### What I Changed
-- 
+### What I Added/Designed/Changed/Customized
+- Favicon
+- Order & Sizing of Sections
+- Colors
+- Fonts
 
 
 
 ### What I Learned
--
+- How to deploy a website
+- Adding a favicon
+- Basics of HTML, CSS, and Javascript
+- Header, footers, and sections
+- Hard Coding Files Instead of Using Libraries/Frameworks
 
 
 ### Thanks
