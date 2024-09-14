@@ -20,10 +20,4 @@ My portfolio site was built from a Youtube template, so I took notes on how a mo
 
 
 ### Thanks
-Thanks to **Ade-mir** - [https://github.com/Ade-mir](https://github.com/Ade-mir) for designing this fantastic Youtube template. Here's how it looked before I got to it:
-
-#### From the video titled "Responsive Portfolio Website From Scratch":
-<h2 align="center">
-  <a href="https://tangerine-hummingbird-1479b6.netlify.app/">https://tangerine-hummingbird-1479b6.netlify.app/</a>
-  <br>
-</h2>
+Thanks to **Ade-mir** - [https://github.com/Ade-mir](https://github.com/Ade-mir) for designing this fantastic Youtube template.
