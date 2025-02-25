@@ -147,7 +147,7 @@ a:hover {
 /* SECITONS */
 
 section {
-    min-height: 100vh; /* Ensure section takes at least full viewport height */
+    min-height: 60vh;
     padding-top: 4vh;
     margin: 0 10rem;
     box-sizing: border-box;
