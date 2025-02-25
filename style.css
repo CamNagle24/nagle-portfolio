@@ -37,7 +37,6 @@ nav {
     justify-content: space-around;
     align-items: center;
     height: 17vh;
-    border: black 2px solid;
 }
 
 .nav-links {
@@ -152,7 +151,6 @@ section {
     padding-top: 4vh;
     margin: 0 10rem;
     box-sizing: border-box;
-    border: black 2px solid;
 }
 
 .section-container {
